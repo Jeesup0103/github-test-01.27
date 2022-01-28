@@ -2,7 +2,8 @@
 #include <queue>
 using namespace std;
 
-int main(void) {
+int main(void)
+{
     int a, b, c;
     a = 1, b = 2, c = 3;
 
@@ -12,4 +13,4 @@ int main(void) {
     return 0;
 }
 
-//why the fuck isn't this working???
+//why the fuck isn't this working??
